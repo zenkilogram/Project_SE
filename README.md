@@ -1,11 +1,11 @@
 # Nama Project
-Pembangian sederhana
+Perkalian sederhana
 # Deskripsi Project
-project ini digunakan untuk membagi 2 bilangan dan menghasilkan 4 angka di belakang koma
+project ini digunakan untuk mengalikan 2 bilangan
 # Cara menjalankan
 1. buka file exe
-2. input bilangan pertama yang ingin dibagi
+2. input bilangan pertama yang ingin dikali
 3. spasi
-4. input bilangan kedua yang ingin di bagi
+4. input bilangan kedua yang ingin dikali
 5. enter
-6. hasil akan muncul dengan 4 angka di belakang koma
+6. hasi akan muncul

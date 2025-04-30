@@ -5,7 +5,7 @@ int main()
 	double a;
 	double b;
 	scanf("%lf %lf", &a, &b);
-	printf("%.4lf%%\n", (a/b));
+	printf("%lf%%\n", (a*b));
 	
 	
 	
